@@ -1,5 +1,10 @@
 # Word-Auto-Image-Grid
 
+## Preview
+![preview-of-grid](https://github.com/SOBANEJAZ/Word-Auto-Image-Inserter/blob/main/Preview.gif)
+
+## 
+
 This repository contains a VBA (Visual Basic for Applications) macro designed to automate the insertion of images into a Microsoft Word document. The macro places images in a grid layout with specific formatting, allowing users to quickly populate their document with images in a well-organized fashion.
 
 ## Features
